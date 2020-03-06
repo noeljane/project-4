@@ -29,3 +29,4 @@
 - make the cards on each category clickable
 - add content and design on dashboard page
 - work more on CSS
+- complete the routing
