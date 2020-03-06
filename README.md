@@ -23,6 +23,7 @@
 - Javascript
 - Canva
 - Firebase
+- Material UI
 
 ### Next Steps
 - make the cards on each category clickable
