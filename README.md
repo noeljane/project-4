@@ -1,8 +1,8 @@
 # project-4
 
 ###  Screenshot 
-<img src="https://imgur.com/MWpHWI3">
-<img src=https://imgur.com/VvdzgK2>
+<img src="https://imgur.com/MWpHWI3"/>
+<img src="https://imgur.com/VvdzgK2"/>
 
 [You can join my app here](https://rocky-fjord-07271.herokuapp.com/)
 
