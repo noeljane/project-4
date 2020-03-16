@@ -18,7 +18,8 @@ Entrepreneurs begin their business building journey with bright ideas, optimism,
 - View articles on the user page
 - Ability to edit and delete individual article
 
-### Technologies
+### Technologies Used
+- React
 - HTML
 - CSS
 - Javascript
