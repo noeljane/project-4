@@ -1,7 +1,7 @@
 # project-4
 
 ###  Screenshot 
-![](https://imgur.com/MWpHWI3)
+![](https://imgur.com/MWpHWI3.png)
 ![alt text](https://imgur.com/MWpHWI3 "Image 1")
 
 
