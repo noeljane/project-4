@@ -1,6 +1,6 @@
 # project-4
 
-###  Screenshot 
+###  Screenshots 
 ![](https://imgur.com/MWpHWI3.png)
 ![](https://imgur.com/MWpHWI3.png)
 ![](https://imgur.com/VvdzgK2.png)
