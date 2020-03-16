@@ -2,10 +2,8 @@
 
 ###  Screenshot 
 ![](https://imgur.com/MWpHWI3.png)
-![alt text](https://imgur.com/MWpHWI3 "Image 1")
-
-
-<img src="https://imgur.com/VvdzgK2"/>
+![](https://imgur.com/MWpHWI3.png)
+![](https://imgur.com/VvdzgK2.png)
 
 [You can join my app here](https://rocky-fjord-07271.herokuapp.com/)
 
