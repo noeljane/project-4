@@ -6,7 +6,7 @@
 ![](https://imgur.com/VvdzgK2.png)
 
 ### Wireframe
-![] (https://wireframepro.mockflow.com/view/M068320932fd38e71b8127d36f09f91041582839984035#/page/f203134ac9d34a35adebeb1e0a7fd308)
+![](https://imgur.com/7Cg0HcP.png)
 
 ### App [You can join my app here](https://rocky-fjord-07271.herokuapp.com/)
 
